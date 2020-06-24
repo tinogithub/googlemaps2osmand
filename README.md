@@ -1,0 +1,1 @@
+# googlemaps2osmand
